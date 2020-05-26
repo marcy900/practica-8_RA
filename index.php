@@ -4,6 +4,6 @@
 	<title></title>
 </head>
 <body>
-	<p>HOLA MUNDO_ CREACION DE MI PRIMER ARCHIVO</p>
+	<p>HOLA MUNDO</p>
 </body>
 </html>
